@@ -6,6 +6,6 @@ namespace gitConsole
 {
     class Person
     {
-        public string Name { get; set; }
+        public string PersonsNameIs { get; set; }
     }
 }
