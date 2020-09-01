@@ -4,7 +4,8 @@ using System.Text;
 
 namespace gitConsole
 {
-    class Myclass
+    class Person
     {
+        public string Name { get; set; }
     }
 }
